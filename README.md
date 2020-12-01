@@ -24,11 +24,21 @@ This repo will be a development environment one can copy and setup by running va
 
 ### Local Testing
 
+#### Part I
 * Go into the `tests/spec/` directory on your local machine and run:
-```ruby
+```sh
 rake spec
 ```
 * All tests should pass (vagrant machine must be up)
+
+#### Part II
+* `ssh` into the `app` VM
+* Change to the directory that contains the app
+* Run:
+```sh
+npm test
+```
+* All tests should pass
 
 
 ### Jenkins
