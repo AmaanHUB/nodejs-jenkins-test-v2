@@ -3,7 +3,6 @@
 This repo will be a development environment one can copy and setup by running vagrant up
 
 ## Requisites
-
 * Virtual box
 * Git
 * Ruby
@@ -45,3 +44,4 @@ npm test
 ### Jenkins
 
 //TODO (maybe), setting up Jenkins with webhooks and perhaps Teams integration
+// Something about email too
