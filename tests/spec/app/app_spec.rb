@@ -30,5 +30,5 @@ describe package('git') do
 end
 
 describe command('git --version') do
-  its(:stdout) { should match /2.17.1/ }
+  its(:stdout) { should match /2\.17\../ }
 end
