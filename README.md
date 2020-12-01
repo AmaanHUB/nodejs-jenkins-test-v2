@@ -18,5 +18,5 @@ This repo will be a development environment one can copy and setup by running va
 * `vagrant up`
 * **Ta-dah, your dev environment will be set up momentarily**
 * The app will be on `development.local` in your web browser
-* Fibonacci index will be on `development.local/fibonacci/<index>` where `index` is a number of your choice
+* Fibonacci index will be on `development.local/fibonacci/<index>` where `<index>` is a number of your choice
 * The posts/blog will be on `development.local/posts`
