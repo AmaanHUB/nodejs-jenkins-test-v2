@@ -7,6 +7,7 @@ This repo will be a development environment one can copy and setup by running va
 * Virtual box
 * Git
 * Ruby
+	* `bundler` gem
 * Vagrant
 
 
@@ -20,6 +21,15 @@ This repo will be a development environment one can copy and setup by running va
 * The app will be on `development.local` in your web browser
 * Fibonacci index will be on `development.local/fibonacci/<index>` where `<index>` is a number of your choice
 * The posts/blog will be on `development.local/posts`
+
+### Local Testing
+
+* Go into the `tests/spec/` directory on your local machine and run:
+```ruby
+rake spec
+```
+* All tests should pass (vagrant machine must be up)
+
 
 ### Jenkins
 
