@@ -38,7 +38,8 @@ rake spec
 ```sh
 npm test
 ```
-* All tests should pass (hopefully)
+* All tests should pass
+	* The Blogs one will not since it only seems to work when called with `npm start` and does not recognise `pm2 start app`
 
 
 ### Jenkins
