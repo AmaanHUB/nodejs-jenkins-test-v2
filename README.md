@@ -45,3 +45,4 @@ npm test
 
 //TODO (maybe), setting up Jenkins with webhooks and perhaps Teams integration
 // Something about email too
+:chicken:
