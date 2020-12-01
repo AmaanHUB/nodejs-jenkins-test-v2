@@ -12,3 +12,11 @@ This repo will be a development environment one can copy and setup by running va
 
 ## Instructions
 
+* Install the relevant requisites with the relevant package manager on your distribution
+* Clone the git directory with the `git clone` command
+* Move into the directory (with `cd`)
+* `vagrant up`
+* **Ta-dah, your dev environment will be set up momentarily**
+* The app will be on `development.local` in your web browser
+* Fibonacci index will be on `development.local/fibonacci/<index>` where `index` is a number of your choice
+* The posts/blog will be on `development.local/posts`
