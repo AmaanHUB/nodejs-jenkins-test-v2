@@ -38,7 +38,7 @@ rake spec
 ```sh
 npm test
 ```
-* All tests should pass
+* All tests should pass (hopefully)
 
 
 ### Jenkins
