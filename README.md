@@ -39,10 +39,9 @@ rake spec
 npm test
 ```
 * All tests should pass
-	* The Blogs one will not since it only seems to work when called with `npm start` and does not recognise `pm2 start app`
+	* The Blogs one will not since it only seems to work when called with `npm start` and does not recognise `pm2 start app`, though `pm2` is a better way to run these sorts of things (makes it easier to stop and start etc)
 
 
 ### Jenkins
 
-* First, add this repo to GitHub (if not already on it)
-*
+//TODO (maybe), setting up Jenkins with webhooks and perhaps Teams integration
