@@ -20,3 +20,8 @@ This repo will be a development environment one can copy and setup by running va
 * The app will be on `development.local` in your web browser
 * Fibonacci index will be on `development.local/fibonacci/<index>` where `<index>` is a number of your choice
 * The posts/blog will be on `development.local/posts`
+
+### Jenkins
+
+* First, add this repo to GitHub (if not already on it)
+*
